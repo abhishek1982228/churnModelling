@@ -1,0 +1,2 @@
+Thisis a test text
+README.txt files, sometimes referred to as codebooks, provide the necessary information, or metadata, needed to make Digital Research Objects (DROs) (numerical data, photographs, spread sheets, movies) have added value. This makes working with DROs easier and increases the accessibility for users and researchers. Following the guidelines listed in this document help serve as a guide as to what should be included in a well-formed readme.txt.
